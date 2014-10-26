@@ -1,0 +1,7 @@
+development:
+  base_url: http://localhost:3000/
+  api_key: kthxbye
+
+production:
+  base_url: http://api.suchurl.co/
+  api_key: g5e4rrdy66f6da6fduka

@@ -1,0 +1,39 @@
+{
+  "name": "brunch-with-dragons",
+  "repo": "smokku/brunch-with-dragons",
+  "version": "0.0.1",
+  "main": "_public/js/app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "console-polyfill": "*",
+    "bootstrap": "~3.2",
+    "bootswatch": "~3.2",
+    "angular": "~1.3",
+    "angular-resource": "~1.3",
+    "angular-cookies": "~1.3",
+    "angular-sanitize": "~1.3",
+    "angular-ui-router": "~0.2",
+    "angular-bootstrap": "~0.11",
+    "angular-dialog-service": "~5.2.1",
+    "angular-fontawesome": "~0.3.0",
+    "angular-mocks": "~1.3"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": "README.md"
+    },
+    "bootswatch": {
+      "main": "README.md"
+    },
+    "jquery": {
+      "main": "MIT-LICENSE.txt"
+    }
+  },
+  "resolutions": {
+    "angular": "~1.3.4"
+  }
+}
