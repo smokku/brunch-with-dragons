@@ -47,7 +47,7 @@ Brunch with Dragons is a [Brunch](http://brunch.io/) application skeleton bundle
 - [Bootstrap](http://getbootstrap.com/) CSS framework (LESS flawor)
 - [Bootswatch](http://bootswatch.com/) themes for Bootstrap
 - [Jade](http://jade-lang.com/) for layouts
-  with [https://github.com/GulinSS/jade-angularjs-brunch](https://github.com/GulinSS/jade-angularjs-brunch) compiler to AngularJS modules
+  with [jade-angularjs-brunch](https://github.com/GulinSS/jade-angularjs-brunch) compiler to AngularJS modules
 - [AngularJS](https://angularjs.org/) Frontend Application framework
 - Angular[UI Router](http://angular-ui.github.io/ui-router/) for nested routing
 - Angular[UI Bootstrap](http://angular-ui.github.io/bootstrap/) directives
@@ -124,6 +124,8 @@ See todo.scenario.ls for examples of chai assertions for promises
 and chai-webdriver assertions and DOM selectors.
 
 See api.mock.ls for API mock response example.
+
+You can change Bootwatch theme in the first line of app/styles/app.less.
 
 
 ## Foot-Notes
