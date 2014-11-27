@@ -1,4 +1,4 @@
-angular.module \app.view2 <[ui.router app.templates]>
+angular.module \app.view2 <[ui.router app.filters app.templates]>
 
 .config ($stateProvider) !->
   $stateProvider.state \view2,
