@@ -1,8 +1,9 @@
 {
   "author": "Your Name",
-  "name": "package-name",
-  "description": "Package description",
+  "name": "application-name",
+  "description": "Application description",
   "version": "0.0.1",
+  "copyright": "some rights reserved",
   "homepage": "",
   "repository": {
     "type": "git",

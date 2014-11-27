@@ -30,7 +30,7 @@ exports.config =
     jade:
       pretty: yes # Adds pretty-indentation whitespaces to output (false by default)
     jade_angular:
-      locals: {}
+      locals: require './package.json'
     assetsmanager:
       copyTo:
         'fonts': ['bower_components/font-awesome/fonts/*', 'bower_components/bootstrap/fonts/*']
