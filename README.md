@@ -1,4 +1,5 @@
 # Brunch with Dragons
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/smokku/brunch-with-dragons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
                                ,/     _,---._
                     ,       _,'/|  ,-'       `.
