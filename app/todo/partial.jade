@@ -7,10 +7,10 @@ div(ng-app='ng-app')
     | ]
     ul.unstyled
       li(ng-repeat='todo in todos')
-        label(class='checkbox inline')
+        label.checkbox.inline
           input(type='checkbox', ng-model='todo.done')
           span(class='done{{todo.done}}') {{todo.text}}
-    form(class='form-inline', ng-submit='addTodo()')
+    form.form-inline(ng-submit='addTodo()')
       p
-        input(type='text', ng-model='todoText', size='30', placeholder='add new todo here')
+        input.form-control(type='text', ng-model='todoText', size='30', placeholder='add new todo here')
         button.btn.btn-primary(type='submit') add
